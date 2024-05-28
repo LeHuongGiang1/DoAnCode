@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\Administrator\\Downloads\\sample-laravel-20221213T015243Z-001\\sample-laravel\\docker"
+		}
+	],
+	"settings": {
+		"blade.format.enable": true
+	}
+}
